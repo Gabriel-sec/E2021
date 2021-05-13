@@ -5,3 +5,5 @@ Test des commandes apprises:
 3)Modification de celui-ci ##Commit
 4)Ajout d'une branche: "branche2"
 5)Remodification même fichier ajouté et ##Commit
+6)Demande d'une association de "branche2" (avec ses modification) vers la branche "main" ##Create pull request  ##pull request ##Merge pull request ##Confirm merge
+7)Suppression de "branch2" ##delete branch
